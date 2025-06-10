@@ -6,9 +6,13 @@ Contexto:
 
 A taxa de limpeza é uma taxa cobrada pela seazone para cobrir os custos de limpeza do imóvel após a estadia de um hóspede. Essa taxa é separada do preço da estadia e é adicionada ao custo total da reserva.
 O que a taxa de limpeza cobre:
+
 ● Limpeza geral do imóvel, incluindo banheiros, cozinha, quartos e áreas comuns.
+
 ● Lavagem de roupa de cama e toalhas.
+
 ● Reposição de Amenities.
+
 ● Material de limpeza.
 
 Desafio:
